@@ -6,7 +6,7 @@ public class Array {
         int array[] = new int[ARRAY_LENGTH];
         for(int counter = 0; counter < array.length; counter ++){
             array[counter] = 15 + 5 * counter;
-            System.out.printf("%10d%5d%n", counter, array[counter]);
+            System.out.printf("%10d%20d%n", counter, array[counter]);
         }
     }
 }
