@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ComparingNumbers {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("ENTER A NUMBER---->>");
+        System.out.print("ENTER A NUMBER---->>");
         int num = input.nextInt();
         int square = num * num;
 
