@@ -33,6 +33,7 @@ public class Driller {
                 System.out.printf("you are to pay %d%n", price);
 
             }
+            amountEntered++;
         }
 
     }
