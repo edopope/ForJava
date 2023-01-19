@@ -1,7 +1,5 @@
 package Chapter8;
 
-import java.util.Arrays;
-
 public class HugeInteger {
     public int[] subtract(int[] number1, int[] number2) {
         int[] subtractedNumber = new int[number1.length];
