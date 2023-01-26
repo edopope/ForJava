@@ -1,4 +1,4 @@
-package Chapter3;
+package Chapter4.Chapter3;
 
 public class CarClass {
     private String model;

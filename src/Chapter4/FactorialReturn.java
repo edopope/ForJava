@@ -9,4 +9,9 @@ public class FactorialReturn {
     }
         return result;
     }
+
+    public static void main(String[] args) {
+        int age = 12;
+        System.out.println(factorial(age));
+    }
         }
